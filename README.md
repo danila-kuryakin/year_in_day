@@ -1,1 +1,23 @@
 # year_in_day
+## How it works:
+### Start service:
+
+- #### Склонируйте проект:
+
+  `git clone https://github.com/danila-kuryakin/year_in_day.git`
+
+- #### Перейдите в директорию проекта:
+
+  `cd year_in_day`
+
+- #### Соберите docker image:
+
+  `./gradlew startService`
+
+- #### Запустите docker: 
+
+  `docker run --rm -p 80:80 year_in_day`
+
+### Отправьте запрос:
+
+    curl http://localhost?year=2017
