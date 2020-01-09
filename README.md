@@ -1,6 +1,6 @@
 # year_in_day
-## How it works:
-### Start service:
+## Инструкция:
+### Запуск проекта:
 
 - #### Склонируйте проект:
 
@@ -20,4 +20,4 @@
 
 ### Отправьте запрос:
 
-    curl http://localhost?year=2017
+    'curl http://localhost?year=2017'
