@@ -20,4 +20,4 @@
 
 ### Отправьте запрос:
 
-    'curl http://localhost?year=2017'
+    `curl http://localhost?year=2017`
