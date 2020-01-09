@@ -16,7 +16,7 @@
 
 - #### Запустите docker: 
 
-  `sudo docker run --rm -p 80:80 year_in_day`
+  `sudo docker run --rm -p 80:80 dakur/year_in_date`
 
 ### Отправьте запрос:
 
