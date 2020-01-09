@@ -12,11 +12,11 @@
 
 - #### Соберите docker image:
 
-  `./gradlew startService`
+  `sudo ./gradlew startService`
 
 - #### Запустите docker: 
 
-  `docker run --rm -p 80:80 year_in_day`
+  `sudo docker run --rm -p 80:80 year_in_day`
 
 ### Отправьте запрос:
 
